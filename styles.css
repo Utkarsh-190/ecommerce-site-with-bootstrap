@@ -1,0 +1,19 @@
+.my-img {
+  width: 1000px;
+  height: 400px;
+}
+
+.cardsTitle {
+  font-size: 2rem;
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.cards > div {
+  background: rgb(243, 210, 210);
+}
